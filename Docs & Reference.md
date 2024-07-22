@@ -5,7 +5,7 @@
 #### Workplace
 - PowerBI Models 
 	- Local: C:\Users\bi.minh.luu\Desktop\workspace\tung.vu
-	- Cloud: [Sharepoint]([BI-CoreTeam - OneDrive (sharepoint.com)](https://thuocsi1-my.sharepoint.com/personal/bi_buymed_com/_layouts/15/onedrive.aspx?e=5%3A96d9b3134c164b359760fe519c598e88&sharingv2=true&fromShare=true&at=9&CID=fae6339d%2D7eb6%2D4ae4%2Db310%2D280d5557ccac&id=%2Fpersonal%2Fbi%5Fbuymed%5Fcom%2FDocuments%2FBI%2DCoreTeam&FolderCTID=0x012000F9FAF15921B2BE449C08C0918C4BB21B&view=0))
+	- Cloud: [Sharepoint](https://thuocsi1-my.sharepoint.com/personal/bi_buymed_com/_layouts/15/onedrive.aspx?e=5%3A96d9b3134c164b359760fe519c598e88&sharingv2=true&fromShare=true&at=9&CID=fae6339d%2D7eb6%2D4ae4%2Db310%2D280d5557ccac&id=%2Fpersonal%2Fbi%5Fbuymed%5Fcom%2FDocuments%2FBI%2DCoreTeam&FolderCTID=0x012000F9FAF15921B2BE449C08C0918C4BB21B&view=0)
 - Internal Management system: https://internal.thuocsi.vn/
 
 #### Shortcut Links
@@ -18,6 +18,7 @@
 #### HR Offtime management
 
 [Home (bamboohr.com)](https://buymed.bamboohr.com/home/)
+https://ap8.bipocloud.com/BUY
 
 #### Essential Repo
 
