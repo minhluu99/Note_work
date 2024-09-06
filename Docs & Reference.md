@@ -1,7 +1,9 @@
 #### Docs
 - Dataset Table Idea: [Sharepoint](https://thuocsi1.sharepoint.com/sites/BI/Lists/List_BG_Silver_Tables/AllItems.aspx)
 - BI Logics Docs: [All content - Data - Confluence (atlassian.net)](https://buymed.atlassian.net/wiki/spaces/DataTeam/pages)
-- 
+
+
+
 #### Workplace
 - PowerBI Models 
 	- Local: C:\Users\bi.minh.luu\Desktop\workspace\tung.vu

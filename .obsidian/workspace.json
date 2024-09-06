@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a1cbc37ab9dbe8",
+        "id": "ff05b3d9e1d5a800",
         "type": "tabs",
         "children": [
           {
-            "id": "110677fc969e14bc",
+            "id": "3db585eb1645cf7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GCP SETUP/Big Query/Dataset Quick Look.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0a594027a5e1975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_daily/2024-07-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "847f1264c3125459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_daily/2024-07-21.md",
+                "file": "1_daily/2024-09-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210.5
   },
   "right": {
     "id": "200bfee18463dcb6",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_daily/2024-07-21.md",
+                "file": "1_daily/2024-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_daily/2024-07-21.md",
+                "file": "1_daily/2024-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_daily/2024-07-21.md"
+                "file": "1_daily/2024-09-06.md"
               }
             }
           }
@@ -171,35 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "847f1264c3125459",
+  "active": "568e0a3180346af1",
   "lastOpenFiles": [
-    "1_daily/2024-07-19.md",
-    "1_daily/2024-07-21.md",
-    "0_template/Daily note.md",
-    "1_daily/2024-07-22 __ Week.md",
-    "1_daily/2024-07-18.md",
-    "1_daily/2024-07-17.md",
-    "1_daily/2024-07-15 __ Week.md",
-    "Database/gold_v2/Dim_sku_item.md",
-    "Database/Untitled 1.md",
-    "Database/gold_v2",
-    "Docs & Reference.md",
-    "GCP SETUP/Big Query/00__Change_Timezone.md",
+    "1_daily/2024-09-04.md",
+    "1_daily/2024-09-06.md",
+    "1_daily/2024-09-05.md",
+    "1_daily/2024-08-30.md",
+    "1_daily/Daily Task Dashboard.md",
+    "1_daily/2024-08-27.md",
+    "1_daily/2024-08-28.md",
+    "1_daily/2024-08-29.md",
     "GCP SETUP/Big Query/Table Quick Look.md",
-    "GCP SETUP/Big Query/Dataset Quick Look.md",
+    "1_daily/2024-08-23.md",
+    "Docs & Reference.md",
     "Github merge policy.md",
+    "Order Status.md",
+    "GCP SETUP/Big Query/Dataset Quick Look.md",
+    "1_daily/2024-08-26.md",
+    "1_daily/2024-08-20.md",
+    "Untitled/OKR Objective 2.md",
+    "Untitled/OKR Objective 1.md",
+    "Untitled/Nháp.md",
+    "Untitled.md",
     "README.md",
-    "Unexpected Duplication error when incremental model.md",
-    "1_daily/2024-07-08 __ Week.md",
-    "1_daily/2024-07-10.md",
-    "1_daily/2024-07-11.md",
-    "1_daily/2024-07-12.md",
-    "1_daily/2024-07-04.md",
-    "Database/goldv1/fact_cs_ticket.md",
-    "Database/goldv1/more_note/ticket_type.md",
-    "Database/goldv1/more_note/cs_tiket_issue_type.md",
-    "Database/goldv1/more_note/cs_ticket_source.md",
-    "Database/goldv1/more_note/Untitled.md",
+    "1_daily/2024-08-21.md",
+    "1_daily/2024-08-22.md",
+    "1_daily/2024-08-16.md",
+    "PowerBI/BI Knowledge.md",
+    "1_daily/2024-08-15.md",
+    "Untitled",
+    "PowerBI",
+    "0_pyfunction/weekly_summarize_prompt.txt",
+    "0_pyfunction/weekly_summarize.py",
+    "0_pyfunction",
+    "Database/gold_v2",
     "Database/goldv1/more_note",
     "Database/goldv1",
     "Database/Silver",
@@ -208,13 +188,8 @@
     "0_attachments/Pasted image 20240703101220.png",
     "0_attachments/Pasted image 20240624103915.png",
     "Untitled.canvas",
-    "0_attachments",
     "0_attachments/Pasted image 20240617094236.png",
     "0_attachments/Pasted image 20240617094107.png",
-    "Analytics Engineer/Source",
-    "0_attachments/Pasted image 20240613140732.png",
-    "Analytics Engineer",
-    "GCP SETUP/Big Query",
-    "GCP SETUP"
+    "0_attachments/Pasted image 20240613140732.png"
   ]
 }
