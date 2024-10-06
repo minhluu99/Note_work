@@ -30,3 +30,23 @@ https://github.com/buymed-anhletam/warehousing_repo
 	- Mail: minh.luu@buymed.com
 	- User: minhluu-buymed
 	- Password: 
+
+Thuocsi.vn
+	Số điện thoại: 0329865704
+	Email:            bi@thuocsi.vn
+	Mật khẩu:      12345678
+
+Gitlab: https://gitlab.buymed.tech
+- minh.luu 
+- `JiaMin@_261299`
+- Recovery Codes:
+	- 5114a6e9a189ade0
+	- 7e076689dae8bd35
+	- 303aedfe6825670e
+	- 864b479c4072421a
+	- 53cb9a0cbad2eb6f
+	- b63fa359c449f0b5
+	- 774476e56ea445e8
+	- aee1c22c5524e2b1
+	- c902d89e80fbb44a
+	- 869cc87c0eadd534

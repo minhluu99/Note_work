@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_daily/2024-09-06.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 343.5
   },
   "right": {
     "id": "200bfee18463dcb6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_daily/2024-09-06.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_daily/2024-09-06.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_daily/2024-09-06.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,34 +145,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "568e0a3180346af1",
+  "active": "3db585eb1645cf7a",
   "lastOpenFiles": [
-    "1_daily/2024-09-04.md",
-    "1_daily/2024-09-06.md",
-    "1_daily/2024-09-05.md",
-    "1_daily/2024-08-30.md",
-    "1_daily/Daily Task Dashboard.md",
-    "1_daily/2024-08-27.md",
-    "1_daily/2024-08-28.md",
-    "1_daily/2024-08-29.md",
-    "GCP SETUP/Big Query/Table Quick Look.md",
-    "1_daily/2024-08-23.md",
-    "Docs & Reference.md",
-    "Github merge policy.md",
-    "Order Status.md",
-    "GCP SETUP/Big Query/Dataset Quick Look.md",
-    "1_daily/2024-08-26.md",
-    "1_daily/2024-08-20.md",
-    "Untitled/OKR Objective 2.md",
-    "Untitled/OKR Objective 1.md",
-    "Untitled/Nháp.md",
+    "Untitled 1.canvas",
     "Untitled.md",
+    "Untitled.canvas",
+    "Unexpected Duplication error when incremental model.md",
+    "Tasks Plugin - Review and check your Statuses 2024-07-22 13-02-26.md",
+    "1_daily/2024-10-06.md",
+    "Docs & Reference.md",
+    "1_daily/2024-10-03.md",
     "README.md",
-    "1_daily/2024-08-21.md",
-    "1_daily/2024-08-22.md",
-    "1_daily/2024-08-16.md",
+    "Order Status.md",
+    "Github merge policy.md",
     "PowerBI/BI Knowledge.md",
-    "1_daily/2024-08-15.md",
+    "1_daily/2024-10-02.md",
+    "GCP SETUP/Big Query/Table Quick Look.md",
+    "1_daily/2024-09-30.md",
+    "1_daily/2024-09-29.md",
+    "1_daily/2024-09-27.md",
+    "GCP SETUP/Big Query/Create Partition for existence table.md",
+    "GCP SETUP/Big Query/Dataset Quick Look.md",
+    "1_daily/2024-09-26.md",
+    "1_daily/2024-09-25.md",
+    "1_daily/2024-09-23.md",
+    "1_daily/Daily Task Dashboard.md",
+    "1_daily/2024-09-20.md",
+    "1_daily/2024-09-19.md",
+    "1_daily/2024-09-18.md",
+    "GCP SETUP/Big Query/00__Change_Timezone.md",
     "Untitled",
     "PowerBI",
     "0_pyfunction/weekly_summarize_prompt.txt",
@@ -187,7 +187,6 @@
     "0_attachments/Pasted image 20240703101327.png",
     "0_attachments/Pasted image 20240703101220.png",
     "0_attachments/Pasted image 20240624103915.png",
-    "Untitled.canvas",
     "0_attachments/Pasted image 20240617094236.png",
     "0_attachments/Pasted image 20240617094107.png",
     "0_attachments/Pasted image 20240613140732.png"
